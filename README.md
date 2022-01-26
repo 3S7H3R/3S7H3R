@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3S7H3R
+- 👋 Hi, I’m @Esther Njihia
 - 👀 I’m interested in ...Python, Machine Learning, Data Science Business Intelligence
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...any interesting projects.
