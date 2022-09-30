@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Esther Njihia
 - 👀 I’m interested in ...Python, Machine Learning, Data Science Business Intelligence
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on ...any interesting projects.
 - 📫 How to reach me ...esthernjihia44@gmail.com
 
